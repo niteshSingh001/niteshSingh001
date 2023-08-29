@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **ns368497@gmail.com**
 
-- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/1TM6_DN92Fn2XYT7Q99vwpgM9Xd3Ck3wm/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my experiences **:** <a href="https://drive.google.com/file/d/10zo7RZN8e8FrNeMK7ik8y9f1F2EZVeiW/view?usp=sharing" target="_blank">Resume</a>
 
 - --
 
