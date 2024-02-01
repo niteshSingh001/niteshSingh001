@@ -161,3 +161,11 @@
 </div>
 
 ---
+### ⚙️ My Projects:
+* [MY-PORTFOLIO-WEBSITE](https://github.com/niteshSingh001/MY-PORTFOLIO-WEBSITE)
+* [YelpCamp](https://github.com/niteshSingh001/YelpCamp)
+* [CRUD-APP](https://github.com/niteshSingh001/CRUD-APP)
+* [GitFinder](https://github.com/niteshSingh001/GitFinder)
+* [WEB-SCRAPING](https://github.com/niteshSingh001/WEB-SCRAPING)
+* [Todo-List](https://github.com/niteshSingh001/Todo-List)
+* [WEATHER-WEB-APP](https://github.com/niteshSingh001/WEATHER-WEB-APP)
